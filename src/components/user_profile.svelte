@@ -15,7 +15,7 @@
     <h1>Hello, <span class="username">{user.username}</span>!</h1>
     <p>Today's date: <span class="highlight">{currentDate.toDateString()}</span></p>
     <p>Current time: <span class="highlight">{new Date().toLocaleTimeString()}</span></p>
-    <p>Your journey with us began on <span class="highlight">Sep 11, 2024</span>.</p>
+    <p>Your journey with us began on <span class="highlight">November 29, 2024</span>.</p>
     <p>You've actively engaged with the platform for <span class="highlight">{daysActive} days</span>. Keep up the great work!</p>
 </section>
 
