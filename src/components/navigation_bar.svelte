@@ -180,7 +180,7 @@
   </ul>
   <div class="auth-buttons">
     <button on:click={() => window.open("https://github.com/anay-a-joshi/MindVault-UI", "_blank")}>GitHub</button>
-    <button on:click={() => window.open("https://my-youtube-demo-link", "_blank")}>Demo Video</button>
+    <button on:click={() => window.open("https://youtu.be/EjL1TV7V5M0", "_blank")}>Demo Video</button>
     <button class="dark-mode-toggle" on:click={toggleDarkMode}>
       {isDarkMode ? "Light Mode" : "Dark Mode"}
     </button>
