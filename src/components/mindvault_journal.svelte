@@ -317,7 +317,7 @@
       <section class="card progress-tracking-section">
           <h2>{user.username}'s Achievement Overview (in %)</h2>
           <Progress habitProgress={skillPracticeProgress} habitName="Average Time on {skill}" />
-          <Progress habitProgress={yogaProgress} habitName="Average Stretching Duration" />
+          <Progress habitProgress={yogaProgress} habitName="Average Meditation Duration" />
           <Progress habitProgress={waterIntakeProgress} habitName="Average Water Intake" />
       </section>
 
