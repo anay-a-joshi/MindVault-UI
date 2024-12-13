@@ -9,7 +9,7 @@
     import Chart from "chart.js/auto";
 
     export let productivityData = [];
-    export let categories = ['Learning/Practice Time', 'Stretching/Yoga Duration', 'Hydration Levels'];
+    export let categories = ['Learning/Practice Time', 'Meditation Duration', 'Hydration Levels'];
 
     let doughnutCanvas;
     let barCanvas;
